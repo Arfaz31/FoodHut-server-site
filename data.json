@@ -1,0 +1,182 @@
+[
+    {
+        "id": "1",
+        "chef_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=996&t=st=1683286287~exp=1683286887~hmac=3676fd5b33e3e760a993822e8b0d88275ab299618117415326d1a49300c473a4",
+        "chef_name": "Gordon Ramsay",
+        "years_of_experience": 10,
+        "number_of_recipes": 100,
+        "likes": 1000,
+        "bio": "Gordon Ramsay is a passionate chef with a flair for creating unique culinary experiences.",
+        "recipes": [
+            {
+              "name": "Spicy Grilled Shrimp",
+              "ingredients": ["shrimp", "chili powder", "garlic powder", "olive oil", "salt"],
+              "cookingMethod": "1. Preheat grill to high heat. 2. Mix chili powder, garlic powder, olive oil, and salt in a bowl. 3. Add shrimp to the bowl and toss to coat. 4. Grill shrimp for 2-3 minutes per side. Serve hot.",
+              "rating": 4.5
+            },
+            {
+              "name": "Creamy Tomato Soup",
+              "ingredients": ["tomatoes", "heavy cream", "butter", "onion", "garlic"],
+              "cookingMethod": "1. Melt butter in a large pot. 2. Add onion and garlic and sauté until soft. 3. Add tomatoes and cook for 10 minutes. 4. Use an immersion blender to puree the soup. 5. Add heavy cream and stir to combine. 6. Serve hot.",
+              "rating": 4.2
+            },
+            {
+              "name": "Lemon Garlic Roasted Chicken",
+              "ingredients": ["chicken", "lemon", "garlic", "olive oil", "salt"],
+              "cookingMethod": "1. Preheat oven to 400°F. 2. Mix lemon juice, garlic, olive oil, and salt in a bowl. 3. Rub the mixture all over the chicken. 4. Place chicken in a roasting pan and bake for 45-50 minutes. 5. Serve hot.",
+              "rating": 4.7
+            }
+          ]
+        
+    },
+    {
+        "id": "2",
+        "chef_picture": "https://img.freepik.com/free-photo/mid-shot-chef-holding-plate-with-pasta-making-ok-sign_23-2148794087.jpg?w=996&t=st=1683286545~exp=1683287145~hmac=7230c1570e5182e37efb46c8d53d04cee6cc65fabc5cdb2406cb3ea008d23513",
+        "chef_name": "Bobby Flay",
+        "years_of_experience": 8,
+        "number_of_recipes": 150,
+        "likes": 800,
+        "bio": "Bobby Flay is a skilled chef known for her expertise in Mediterranean cuisine.",
+        "recipes": [
+            {
+                "recipe_name": "Greek Salad",
+                "ingredients": ["Cucumber", "Tomato", "Red onion", "Feta cheese", "Kalamata olives"],
+                "cooking_method": "1. Chop cucumber, tomato, and red onion.\n2. Combine in a bowl.\n3. Add crumbled feta cheese and kalamata olives.\n4. Drizzle with olive oil and lemon juice.\n5. Toss well.\n6. Serve chilled.",
+                "rating": 4.6
+            },
+            {
+                "recipe_name": "Mediterranean Grilled Chicken",
+                "ingredients": ["Chicken breasts", "Lemon", "Garlic", "Oregano", "Olive oil"],
+                "cooking_method": "1. Marinate chicken breasts in lemon juice, garlic, oregano, and olive oil.\n2. Grill the chicken until cooked through.\n3. Serve hot with a side of grilled vegetables.",
+                "rating": 4.7
+            },
+            {
+                "recipe_name": "Spanakopita",
+                "ingredients": ["Phyllo dough", "Spinach", "Feta cheese", "Onion", "Olive oil"],
+                "cooking_method": "1. Preheat the oven.\n2. Saute spinach and onion in olive oil until wilted.\n3. Mix in crumbled feta cheese.\n4. Layer phyllo dough and spinach mixture.\n5. Repeat the layers.\n6. Bake until golden and crispy.\n7. Let it cool slightly before serving.",
+                "rating": 4.9
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "chef_picture": "https://img.freepik.com/free-photo/male-cook-standing-kitchen-presenting-delicious-dish_23-2147863798.jpg?w=740&t=st=1683286668~exp=1683287268~hmac=bc00de66e17eb68ac0489a88f378fb767a74f591caff3d7cba1e5e7e4a2f15b7",
+        "chef_name": "Thomas Keller",
+        "years_of_experience": 12,
+        "number_of_recipes": 280,
+        "likes": 1200,
+        "bio": "Thomas Keller is an acclaimed chef with a passion for fusion cuisine.",
+        "recipes": [
+            {
+              "name": "Arroz con Pollo",
+              "ingredients": ["chicken", "rice", "tomatoes", "bell pepper", "saffron"],
+              "cookingMethod": "1. Season chicken with salt and pepper. 2. Heat oil in a large pot and brown chicken on all sides. 3. Remove chicken from pot and set aside. 4. Add rice to pot and stir to coat with oil. 5. Add tomatoes, bell pepper, saffron, and 3 cups of water. 6. Bring to a boil, then reduce heat and simmer for 20 minutes. 7. Add chicken back to pot and cook for an additional 10-15 minutes or until rice is tender. 8. Serve hot.",
+              "rating": 4.8
+            },
+            {
+              "name": "Empanadas",
+              "ingredients": ["flour", "ground beef", "onion", "olive oil", "cumin"],
+              "cookingMethod": "1. Make the dough by combining flour, salt, and water in a bowl. 2. Knead until smooth, then let rest for 30 minutes. 3. Meanwhile, cook ground beef and onion in olive oil until browned. 4. Add cumin, salt, and pepper to taste. 5. Roll out dough and cut into circles. 6. Add a spoonful of beef mixture to each circle and fold in half. 7. Pinch edges to seal. 8. Fry empanadas in oil until golden brown. 9. Serve hot.",
+              "rating": 4.5
+            },
+            {
+              "name": "Tres Leches Cake",
+              "ingredients": ["flour", "sugar", "butter", "eggs", "milk"],
+              "cookingMethod": "1. Preheat oven to 350°F. 2. Cream butter and sugar in a bowl. 3. Add eggs one at a time, beating after each addition. 4. Fold in flour. 5. Pour batter into a greased cake pan and bake for 30-35 minutes. 6. Mix together condensed milk, evaporated milk, and heavy cream. 7. Poke holes in the cake with a fork and pour milk mixture over the top. 8. Let cake soak for at least 1 hour in the refrigerator. 9. Serve chilled.",
+              "rating": 4.9
+            }
+          ]
+    },
+    {
+        "id": "4",
+        "chef_picture": "https://img.freepik.com/premium-photo/portrait-chef-kitchen_23-2148006345.jpg?w=900",
+        "chef_name": "Michael Johnson",
+        "years_of_experience": 12,
+        "number_of_recipes": 250,
+        "likes": 2500,
+        "bio": "Michael Johnson is a talented pastry chef specializing in French and Italian cuisine.",
+        "recipes": [
+            {
+              "name": "Coq au Vin",
+              "ingredients": ["chicken", "bacon", "mushrooms", "onions", "red wine"],
+              "cookingMethod": "1. Fry bacon in a large pot until crisp. 2. Remove bacon and set aside. 3. Add chicken to the pot and brown on all sides. 4. Remove chicken and set aside. 5. Add onions and mushrooms to the pot and cook until softened. 6. Return chicken and bacon to the pot. 7. Add red wine and enough chicken broth to cover. 8. Bring to a boil, then reduce heat and simmer for 1 hour. 9. Serve hot.",
+              "rating": 4.7
+            },
+            {
+              "name": "Pesto Pasta",
+              "ingredients": ["pasta", "basil", "garlic", "pine nuts", "parmesan cheese"],
+              "cookingMethod": "1. Cook pasta according to package instructions. 2. Meanwhile, combine basil, garlic, pine nuts, and parmesan cheese in a food processor. 3. Slowly add olive oil while blending until a smooth paste forms. 4. Drain pasta and toss with pesto sauce. 5. Serve hot.",
+              "rating": 4.4
+            },
+            {
+              "name": "Tiramisu",
+              "ingredients": ["ladyfingers", "espresso", "mascarpone cheese", "eggs", "sugar"],
+              "cookingMethod": "1. Brew espresso and let cool. 2. In a bowl, beat egg yolks and sugar until thick and pale. 3. Add mascarpone cheese and mix until smooth. 4. In a separate bowl, beat egg whites until stiff peaks form. 5. Fold egg whites into mascarpone mixture. 6. Dip ladyfingers in espresso and arrange in a single layer in a dish. 7. Spread half of the mascarpone mixture over the ladyfingers. 8. Repeat with another layer of ladyfingers and mascarpone mixture. 9. Refrigerate for at least 2 hours before serving.",
+              "rating": 4.9
+            }
+          ]
+    },
+    {
+        "id": "5",
+        "chef_picture": "https://img.freepik.com/free-photo/brunette-chef-female-cook-table-preparing-vegan-meals_613910-9791.jpg?w=996&t=st=1683287257~exp=1683287857~hmac=c3cea8dc3b242c23aae0635acdf74507dae9c1bec8d530c9ab69b8db3c2b9bb0",
+        "chef_name": "Julia Child",
+        "years_of_experience": 20,
+        "number_of_recipes": 500,
+        "likes": 1500,
+        "bio": "Julia Child is a renowned chef known for his expertise in Asian fusion cuisine.",
+        "recipes": [
+            {
+                "recipe_name": "Sushi Rolls",
+                "ingredients": ["Sushi rice", "Nori seaweed", "Fish or seafood", "Cucumber", "Avocado"],
+                "cooking_method": "1. Prepare sushi rice according to package instructions.\n2. Lay a sheet of nori seaweed on a bamboo sushi mat.\n3. Spread a thin layer of sushi rice on the nori.\n4. Add your choice of fish or seafood, cucumber, and avocado as fillings.\n5. Roll the sushi tightly using the bamboo mat.\n6. Slice the sushi roll into bite-sized pieces.\n7. Serve with soy sauce, wasabi, and pickled ginger.",
+                "rating": 4.9
+            },
+            {
+                "recipe_name": "Pad Thai",
+                "ingredients": ["Rice noodles", "Shrimp", "Tofu", "Eggs", "Bean sprouts"],
+                "cooking_method": "1. Soak rice noodles in warm water until softened.\n2. Heat oil in a wok or large skillet.\n3. Add shrimp, tofu, and scrambled eggs.\n4. Stir-fry until shrimp is cooked and eggs are set.\n5. Push everything to one side and add soaked rice noodles.\n6. Pour in the pad Thai sauce.\n7. Toss everything together until well combined.\n8. Add bean sprouts and chopped peanuts.\n9. Stir-fry for another minute.\n10. Serve hot with lime wedges.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Beef with Broccoli",
+                "ingredients": ["Beef sirloin", "Broccoli", "Garlic", "Soy sauce", "Oyster sauce"],
+                "cooking_method": "1. Slice beef sirloin into thin strips.\n2. Blanch broccoli florets in boiling water.\n3. Heat oil in a wok or skillet.\n4. Stir-fry garlic until fragrant.\n5. Add beef strips and cook until browned.\n6. Stir in soy sauce and oyster sauce.\n7. Add blanched broccoli and stir-fry until heated through.\n8. Serve hot with steamed rice.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": "006",
+        "chef_picture": "https://img.freepik.com/free-photo/young-bearded-man-his-work-place-cooking-vegetables_496169-93.jpg?w=996&t=st=1683287201~exp=1683287801~hmac=6686d658a312881fb5e2689b72084dc36ef07529b71caa1bdbf87a3cda602afc",
+        "chef_name": "Anthony Bourdain",
+        "years_of_experience": 10,
+        "number_of_recipes": 300,
+        "likes": 1500,
+        "bio": "Anthony Bourdain is a creative pastry chef with a passion for creating visually stunning desserts.",
+        "recipes": [
+            {
+              "name": "Spicy Tuna Roll",
+              "ingredients": ["sushi rice", "nori sheets", "sashimi-grade tuna", "spicy mayo", "avocado"],
+              "cookingMethod": "1. Cook sushi rice according to package instructions. 2. Place a nori sheet on a bamboo mat, shiny side down. 3. Spread rice evenly over the nori, leaving a 1-inch border at the top. 4. Spread spicy mayo over the rice. 5. Place strips of tuna and avocado on top of the mayo. 6. Roll up the bamboo mat tightly to form the sushi roll. 7. Cut the roll into 8-10 pieces. 8. Serve with soy sauce and pickled ginger.",
+              "rating": 4.5
+            },
+            {
+              "name": "Green Curry Chicken",
+              "ingredients": ["chicken breast", "green curry paste", "coconut milk", "green beans", "bell peppers"],
+              "cookingMethod": "1. Heat oil in a large skillet over medium-high heat. 2. Add chicken and cook until browned on all sides. 3. Remove chicken from the skillet and set aside. 4. Add green curry paste to the skillet and cook for 1-2 minutes. 5. Add coconut milk and stir to combine. 6. Add green beans and bell peppers and cook until tender. 7. Return chicken to the skillet and simmer for 10-15 minutes. 8. Serve with rice.",
+              "rating": 4.7
+            },
+            {
+              "name": "Mango Sticky Rice",
+              "ingredients": ["sticky rice", "coconut milk", "sugar", "mangoes", "sesame seeds"],
+              "cookingMethod": "1. Rinse sticky rice and soak in water for at least 2 hours. 2. Drain the rice and place in a steamer basket. 3. Steam the rice over boiling water for 20-25 minutes, or until tender. 4. In a saucepan, heat coconut milk and sugar over medium heat until the sugar dissolves. 5. Peel and dice the mangoes. 6. Serve the rice in bowls and top with mangoes and coconut sauce. 7. Sprinkle with sesame seeds.",
+              "rating": 4.9
+            }
+          ]
+    }
+    
+    
+    
+    
+
+]

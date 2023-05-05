@@ -1,11 +1,16 @@
 const express = require('express')
+const app = express()
+const port = 5000
 
-const app = express();
 
-app.get("/", (req, res) =>{
-    res.json({message:"Hello server"})
-})
 
-app.listen(5000, () => {
-    console.log("server is running on port 5000")
-})
+app.get('/', (req, res) => {
+    res.send('Hello Chef')
+  })
+
+
+
+
+app.listen(port, () => {
+    console.log(`FoodHut server is running ${port}`)
+  })

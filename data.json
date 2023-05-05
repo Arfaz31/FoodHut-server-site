@@ -39,28 +39,28 @@
         "bio": "Bobby Flay is a skilled chef known for her expertise in Mediterranean cuisine.",
         "recipes": [
             {
-                "recipe_name": "Greek Salad",
+                "name": "Greek Salad",
                 "ingredients": ["Cucumber", "Tomato", "Red onion", "Feta cheese", "Kalamata olives"],
-                "cooking_method": "1. Chop cucumber, tomato, and red onion.\n2. Combine in a bowl.\n3. Add crumbled feta cheese and kalamata olives.\n4. Drizzle with olive oil and lemon juice.\n5. Toss well.\n6. Serve chilled.",
+                "cookingMethod": "1. Chop cucumber, tomato, and red onion.\n2. Combine in a bowl.\n3. Add crumbled feta cheese and kalamata olives.\n4. Drizzle with olive oil and lemon juice.\n5. Toss well.\n6. Serve chilled.",
                 "rating": 4.6
             },
             {
                 "recipe_name": "Mediterranean Grilled Chicken",
                 "ingredients": ["Chicken breasts", "Lemon", "Garlic", "Oregano", "Olive oil"],
-                "cooking_method": "1. Marinate chicken breasts in lemon juice, garlic, oregano, and olive oil.\n2. Grill the chicken until cooked through.\n3. Serve hot with a side of grilled vegetables.",
+                "cookingMethod": "1. Marinate chicken breasts in lemon juice, garlic, oregano, and olive oil.\n2. Grill the chicken until cooked through.\n3. Serve hot with a side of grilled vegetables.",
                 "rating": 4.7
             },
             {
                 "recipe_name": "Spanakopita",
                 "ingredients": ["Phyllo dough", "Spinach", "Feta cheese", "Onion", "Olive oil"],
-                "cooking_method": "1. Preheat the oven.\n2. Saute spinach and onion in olive oil until wilted.\n3. Mix in crumbled feta cheese.\n4. Layer phyllo dough and spinach mixture.\n5. Repeat the layers.\n6. Bake until golden and crispy.\n7. Let it cool slightly before serving.",
+                "cookingMethod": "1. Preheat the oven.\n2. Saute spinach and onion in olive oil until wilted.\n3. Mix in crumbled feta cheese.\n4. Layer phyllo dough and spinach mixture.\n5. Repeat the layers.\n6. Bake until golden and crispy.\n7. Let it cool slightly before serving.",
                 "rating": 4.9
             }
         ]
     },
     {
         "id": "3",
-        "chef_picture": "https://img.freepik.com/free-photo/male-cook-standing-kitchen-presenting-delicious-dish_23-2147863798.jpg?w=740&t=st=1683286668~exp=1683287268~hmac=bc00de66e17eb68ac0489a88f378fb767a74f591caff3d7cba1e5e7e4a2f15b7",
+        "chef_picture": "https://img.freepik.com/free-photo/chef-cooking-fresh-vegetable-salad-his-kitchen_155003-501.jpg?w=996&t=st=1683292255~exp=1683292855~hmac=c2a637a8bc72b1a92b885709a28acb8f947c7df5701c256f715bc6aa12565122",
         "chef_name": "Thomas Keller",
         "years_of_experience": 12,
         "number_of_recipes": 280,
@@ -126,21 +126,21 @@
         "bio": "Julia Child is a renowned chef known for his expertise in Asian fusion cuisine.",
         "recipes": [
             {
-                "recipe_name": "Sushi Rolls",
+                "name": "Sushi Rolls",
                 "ingredients": ["Sushi rice", "Nori seaweed", "Fish or seafood", "Cucumber", "Avocado"],
-                "cooking_method": "1. Prepare sushi rice according to package instructions.\n2. Lay a sheet of nori seaweed on a bamboo sushi mat.\n3. Spread a thin layer of sushi rice on the nori.\n4. Add your choice of fish or seafood, cucumber, and avocado as fillings.\n5. Roll the sushi tightly using the bamboo mat.\n6. Slice the sushi roll into bite-sized pieces.\n7. Serve with soy sauce, wasabi, and pickled ginger.",
+                "cookingMethod": "1. Prepare sushi rice according to package instructions.\n2. Lay a sheet of nori seaweed on a bamboo sushi mat.\n3. Spread a thin layer of sushi rice on the nori.\n4. Add your choice of fish or seafood, cucumber, and avocado as fillings.\n5. Roll the sushi tightly using the bamboo mat.\n6. Slice the sushi roll into bite-sized pieces.\n7. Serve with soy sauce, wasabi, and pickled ginger.",
                 "rating": 4.9
             },
             {
-                "recipe_name": "Pad Thai",
+                "name": "Pad Thai",
                 "ingredients": ["Rice noodles", "Shrimp", "Tofu", "Eggs", "Bean sprouts"],
-                "cooking_method": "1. Soak rice noodles in warm water until softened.\n2. Heat oil in a wok or large skillet.\n3. Add shrimp, tofu, and scrambled eggs.\n4. Stir-fry until shrimp is cooked and eggs are set.\n5. Push everything to one side and add soaked rice noodles.\n6. Pour in the pad Thai sauce.\n7. Toss everything together until well combined.\n8. Add bean sprouts and chopped peanuts.\n9. Stir-fry for another minute.\n10. Serve hot with lime wedges.",
+                "cookingMethod": "1. Soak rice noodles in warm water until softened.\n2. Heat oil in a wok or large skillet.\n3. Add shrimp, tofu, and scrambled eggs.\n4. Stir-fry until shrimp is cooked and eggs are set.\n5. Push everything to one side and add soaked rice noodles.\n6. Pour in the pad Thai sauce.\n7. Toss everything together until well combined.\n8. Add bean sprouts and chopped peanuts.\n9. Stir-fry for another minute.\n10. Serve hot with lime wedges.",
                 "rating": 4.8
             },
             {
-                "recipe_name": "Beef with Broccoli",
+                "name": "Beef with Broccoli",
                 "ingredients": ["Beef sirloin", "Broccoli", "Garlic", "Soy sauce", "Oyster sauce"],
-                "cooking_method": "1. Slice beef sirloin into thin strips.\n2. Blanch broccoli florets in boiling water.\n3. Heat oil in a wok or skillet.\n4. Stir-fry garlic until fragrant.\n5. Add beef strips and cook until browned.\n6. Stir in soy sauce and oyster sauce.\n7. Add blanched broccoli and stir-fry until heated through.\n8. Serve hot with steamed rice.",
+                "cookingMethod": "1. Slice beef sirloin into thin strips.\n2. Blanch broccoli florets in boiling water.\n3. Heat oil in a wok or skillet.\n4. Stir-fry garlic until fragrant.\n5. Add beef strips and cook until browned.\n6. Stir in soy sauce and oyster sauce.\n7. Add blanched broccoli and stir-fry until heated through.\n8. Serve hot with steamed rice.",
                 "rating": 4.7
             }
         ]
